@@ -80,10 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_268_Missing_Number.cpp">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.cpp">
 			<Option target="LettCode"/>
 		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_268_Missing_Number.h">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.h">
 			<Option target="LettCode"/>
 		</Unit>
 		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp">

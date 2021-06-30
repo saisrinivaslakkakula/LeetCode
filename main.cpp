@@ -1,8 +1,13 @@
 #include <iostream>
-#include "LC_268_Missing_Number.h"
+#include "Arrays/LC_118_Pascal_Triangle.h"
 
 int main() {
-    vector<int> nums = {9,6,4,2,3,5,7,0,1};
-    std::cout<<missingNumber(nums);
+    vector<vector<int>> numrows = generate(7);
+    for(int i=0;i<numrows.size();i++){
+        for(int j=0;j<numrows.at(i).size();j++){
+            std::cout<< numrows[i][j] << " ";
+        }
+        std::cout<<"\n";
+    }
 
 }

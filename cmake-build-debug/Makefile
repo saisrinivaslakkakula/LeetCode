@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-LC_268_Missing_Number.o: LC_268_Missing_Number.cpp.o
+Arrays/LC_118_Pascal_Triangle.o: Arrays/LC_118_Pascal_Triangle.cpp.o
 
-.PHONY : LC_268_Missing_Number.o
+.PHONY : Arrays/LC_118_Pascal_Triangle.o
 
 # target to build an object file
-LC_268_Missing_Number.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.o
-.PHONY : LC_268_Missing_Number.cpp.o
+Arrays/LC_118_Pascal_Triangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.o
+.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.o
 
-LC_268_Missing_Number.i: LC_268_Missing_Number.cpp.i
+Arrays/LC_118_Pascal_Triangle.i: Arrays/LC_118_Pascal_Triangle.cpp.i
 
-.PHONY : LC_268_Missing_Number.i
+.PHONY : Arrays/LC_118_Pascal_Triangle.i
 
 # target to preprocess a source file
-LC_268_Missing_Number.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.i
-.PHONY : LC_268_Missing_Number.cpp.i
+Arrays/LC_118_Pascal_Triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.i
+.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.i
 
-LC_268_Missing_Number.s: LC_268_Missing_Number.cpp.s
+Arrays/LC_118_Pascal_Triangle.s: Arrays/LC_118_Pascal_Triangle.cpp.s
 
-.PHONY : LC_268_Missing_Number.s
+.PHONY : Arrays/LC_118_Pascal_Triangle.s
 
 # target to generate assembly for a file
-LC_268_Missing_Number.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.s
-.PHONY : LC_268_Missing_Number.cpp.s
+Arrays/LC_118_Pascal_Triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.s
+.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... LC_268_Missing_Number.o"
-	@echo "... LC_268_Missing_Number.i"
-	@echo "... LC_268_Missing_Number.s"
+	@echo "... Arrays/LC_118_Pascal_Triangle.o"
+	@echo "... Arrays/LC_118_Pascal_Triangle.i"
+	@echo "... Arrays/LC_118_Pascal_Triangle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

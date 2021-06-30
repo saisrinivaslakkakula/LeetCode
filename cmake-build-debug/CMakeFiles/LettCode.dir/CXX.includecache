@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.cpp
-LC_937_Reorder_Log_Files.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.h
-
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.h
-string
--
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.h
 vector
 -
-map
+cmath
 -
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
 iostream
 -
-algorithm
--
+Arrays/LC_118_Pascal_Triangle.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.h
 
