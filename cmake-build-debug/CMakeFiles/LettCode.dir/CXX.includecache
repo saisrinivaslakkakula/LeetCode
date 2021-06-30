@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.cpp
+LC_937_Reorder_Log_Files.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.h
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/LC_937_Reorder_Log_Files.h
+string
+-
+vector
+-
+map
+-
+iostream
+-
+algorithm
+-
+
