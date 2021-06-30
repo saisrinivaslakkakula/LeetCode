@@ -6,15 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/Two_Sum.h
 vector
 -
-cmath
+unordered_map
+-
+iostream
 -
 
 /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
 iostream
 -
-Arrays/LC_118_Pascal_Triangle.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.h
+Arrays/Two_Sum.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/Two_Sum.h
 

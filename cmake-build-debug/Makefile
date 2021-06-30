@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC_118_Pascal_Triangle.o: Arrays/LC_118_Pascal_Triangle.cpp.o
+Arrays/Two_Sum.o: Arrays/Two_Sum.cpp.o
 
-.PHONY : Arrays/LC_118_Pascal_Triangle.o
+.PHONY : Arrays/Two_Sum.o
 
 # target to build an object file
-Arrays/LC_118_Pascal_Triangle.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.o
-.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.o
+Arrays/Two_Sum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.o
+.PHONY : Arrays/Two_Sum.cpp.o
 
-Arrays/LC_118_Pascal_Triangle.i: Arrays/LC_118_Pascal_Triangle.cpp.i
+Arrays/Two_Sum.i: Arrays/Two_Sum.cpp.i
 
-.PHONY : Arrays/LC_118_Pascal_Triangle.i
+.PHONY : Arrays/Two_Sum.i
 
 # target to preprocess a source file
-Arrays/LC_118_Pascal_Triangle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.i
-.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.i
+Arrays/Two_Sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.i
+.PHONY : Arrays/Two_Sum.cpp.i
 
-Arrays/LC_118_Pascal_Triangle.s: Arrays/LC_118_Pascal_Triangle.cpp.s
+Arrays/Two_Sum.s: Arrays/Two_Sum.cpp.s
 
-.PHONY : Arrays/LC_118_Pascal_Triangle.s
+.PHONY : Arrays/Two_Sum.s
 
 # target to generate assembly for a file
-Arrays/LC_118_Pascal_Triangle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.s
-.PHONY : Arrays/LC_118_Pascal_Triangle.cpp.s
+Arrays/Two_Sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.s
+.PHONY : Arrays/Two_Sum.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC_118_Pascal_Triangle.o"
-	@echo "... Arrays/LC_118_Pascal_Triangle.i"
-	@echo "... Arrays/LC_118_Pascal_Triangle.s"
+	@echo "... Arrays/Two_Sum.o"
+	@echo "... Arrays/Two_Sum.i"
+	@echo "... Arrays/Two_Sum.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

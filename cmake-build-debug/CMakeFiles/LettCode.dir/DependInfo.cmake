@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_118_Pascal_Triangle.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.o"
+  "/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/Two_Sum.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.o"
   "/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
