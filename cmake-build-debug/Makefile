@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-LC_937_Reorder_Log_Files.o: LC_937_Reorder_Log_Files.cpp.o
+LC_268_Missing_Number.o: LC_268_Missing_Number.cpp.o
 
-.PHONY : LC_937_Reorder_Log_Files.o
+.PHONY : LC_268_Missing_Number.o
 
 # target to build an object file
-LC_937_Reorder_Log_Files.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_937_Reorder_Log_Files.cpp.o
-.PHONY : LC_937_Reorder_Log_Files.cpp.o
+LC_268_Missing_Number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.o
+.PHONY : LC_268_Missing_Number.cpp.o
 
-LC_937_Reorder_Log_Files.i: LC_937_Reorder_Log_Files.cpp.i
+LC_268_Missing_Number.i: LC_268_Missing_Number.cpp.i
 
-.PHONY : LC_937_Reorder_Log_Files.i
+.PHONY : LC_268_Missing_Number.i
 
 # target to preprocess a source file
-LC_937_Reorder_Log_Files.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_937_Reorder_Log_Files.cpp.i
-.PHONY : LC_937_Reorder_Log_Files.cpp.i
+LC_268_Missing_Number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.i
+.PHONY : LC_268_Missing_Number.cpp.i
 
-LC_937_Reorder_Log_Files.s: LC_937_Reorder_Log_Files.cpp.s
+LC_268_Missing_Number.s: LC_268_Missing_Number.cpp.s
 
-.PHONY : LC_937_Reorder_Log_Files.s
+.PHONY : LC_268_Missing_Number.s
 
 # target to generate assembly for a file
-LC_937_Reorder_Log_Files.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_937_Reorder_Log_Files.cpp.s
-.PHONY : LC_937_Reorder_Log_Files.cpp.s
+LC_268_Missing_Number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LC_268_Missing_Number.cpp.s
+.PHONY : LC_268_Missing_Number.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... LC_937_Reorder_Log_Files.o"
-	@echo "... LC_937_Reorder_Log_Files.i"
-	@echo "... LC_937_Reorder_Log_Files.s"
+	@echo "... LC_268_Missing_Number.o"
+	@echo "... LC_268_Missing_Number.i"
+	@echo "... LC_268_Missing_Number.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

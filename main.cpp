@@ -1,7 +1,8 @@
 #include <iostream>
-#include "LC_937_Reorder_Log_Files.h"
+#include "LC_268_Missing_Number.h"
 
 int main() {
-    vector<string> logs = {"a1 9 2 3 1","g1 act car","zo4 4 7","ab1 off key dog","a8 act zoo"};
-    reorderLogFiles(logs);
+    vector<int> nums = {9,6,4,2,3,5,7,0,1};
+    std::cout<<missingNumber(nums);
+
 }
