@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Arrays/LC_118_Pascal_Triangle.cpp.o"
+  "CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"
