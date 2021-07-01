@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp Arrays/Two_Sum.h Arrays/Two_Sum.cpp)
+add_executable(LettCode main.cpp Math/LC_171_Excel_Sheet_Column_Number.h Math/LC_171_Excel_Sheet_Column_Number.cpp )

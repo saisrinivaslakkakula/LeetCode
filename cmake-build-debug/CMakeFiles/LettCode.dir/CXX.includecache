@@ -6,17 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/Two_Sum.h
-vector
--
-unordered_map
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.cpp
+LC_171_Excel_Sheet_Column_Number.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
+string
 -
 iostream
+-
+cmath
 -
 
 /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
 iostream
 -
-Arrays/Two_Sum.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/Two_Sum.h
+Math/LC_171_Excel_Sheet_Column_Number.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
 

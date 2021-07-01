@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/Two_Sum.o: Arrays/Two_Sum.cpp.o
+Math/LC_171_Excel_Sheet_Column_Number.o: Math/LC_171_Excel_Sheet_Column_Number.cpp.o
 
-.PHONY : Arrays/Two_Sum.o
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.o
 
 # target to build an object file
-Arrays/Two_Sum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.o
-.PHONY : Arrays/Two_Sum.cpp.o
+Math/LC_171_Excel_Sheet_Column_Number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.o
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.o
 
-Arrays/Two_Sum.i: Arrays/Two_Sum.cpp.i
+Math/LC_171_Excel_Sheet_Column_Number.i: Math/LC_171_Excel_Sheet_Column_Number.cpp.i
 
-.PHONY : Arrays/Two_Sum.i
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.i
 
 # target to preprocess a source file
-Arrays/Two_Sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.i
-.PHONY : Arrays/Two_Sum.cpp.i
+Math/LC_171_Excel_Sheet_Column_Number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.i
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.i
 
-Arrays/Two_Sum.s: Arrays/Two_Sum.cpp.s
+Math/LC_171_Excel_Sheet_Column_Number.s: Math/LC_171_Excel_Sheet_Column_Number.cpp.s
 
-.PHONY : Arrays/Two_Sum.s
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.s
 
 # target to generate assembly for a file
-Arrays/Two_Sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/Two_Sum.cpp.s
-.PHONY : Arrays/Two_Sum.cpp.s
+Math/LC_171_Excel_Sheet_Column_Number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.s
+.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/Two_Sum.o"
-	@echo "... Arrays/Two_Sum.i"
-	@echo "... Arrays/Two_Sum.s"
+	@echo "... Math/LC_171_Excel_Sheet_Column_Number.o"
+	@echo "... Math/LC_171_Excel_Sheet_Column_Number.i"
+	@echo "... Math/LC_171_Excel_Sheet_Column_Number.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
