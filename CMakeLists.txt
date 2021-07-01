@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp Math/LC_171_Excel_Sheet_Column_Number.h Math/LC_171_Excel_Sheet_Column_Number.cpp )
+add_executable(LettCode main.cpp Arrays/LC287_Duplicat_Number.cpp Arrays/LC287_Duplicat_Number.h )

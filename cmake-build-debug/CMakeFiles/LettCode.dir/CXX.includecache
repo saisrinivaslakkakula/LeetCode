@@ -6,21 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.cpp
-LC_171_Excel_Sheet_Column_Number.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
-
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
-string
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.h
+vector
+-
+unordered_set
 -
 iostream
--
-cmath
 -
 
 /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
 iostream
 -
-Math/LC_171_Excel_Sheet_Column_Number.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h
+Arrays/LC287_Duplicat_Number.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.h
 

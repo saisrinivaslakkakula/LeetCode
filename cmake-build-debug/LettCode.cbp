@@ -80,10 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.cpp">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.cpp">
 			<Option target="LettCode"/>
 		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_171_Excel_Sheet_Column_Number.h">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.h">
 			<Option target="LettCode"/>
 		</Unit>
 		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp">

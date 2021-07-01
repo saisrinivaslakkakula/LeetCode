@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.o"
+  "CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"

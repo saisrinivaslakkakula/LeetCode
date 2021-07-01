@@ -1,8 +1,12 @@
 #include <iostream>
-#include "Math/LC_171_Excel_Sheet_Column_Number.h"
+#include "Arrays/LC287_Duplicat_Number.h"
 
 int main() {
 
-    std::cout<<titleToNumber("FA");
+    vector<int> nums = {1,1,2};
+    std::cout<<findDuplicate(nums);
+
+
+
 
 }

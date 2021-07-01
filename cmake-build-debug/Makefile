@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Math/LC_171_Excel_Sheet_Column_Number.o: Math/LC_171_Excel_Sheet_Column_Number.cpp.o
+Arrays/LC287_Duplicat_Number.o: Arrays/LC287_Duplicat_Number.cpp.o
 
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.o
+.PHONY : Arrays/LC287_Duplicat_Number.o
 
 # target to build an object file
-Math/LC_171_Excel_Sheet_Column_Number.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.o
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.o
+Arrays/LC287_Duplicat_Number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o
+.PHONY : Arrays/LC287_Duplicat_Number.cpp.o
 
-Math/LC_171_Excel_Sheet_Column_Number.i: Math/LC_171_Excel_Sheet_Column_Number.cpp.i
+Arrays/LC287_Duplicat_Number.i: Arrays/LC287_Duplicat_Number.cpp.i
 
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.i
+.PHONY : Arrays/LC287_Duplicat_Number.i
 
 # target to preprocess a source file
-Math/LC_171_Excel_Sheet_Column_Number.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.i
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.i
+Arrays/LC287_Duplicat_Number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.i
+.PHONY : Arrays/LC287_Duplicat_Number.cpp.i
 
-Math/LC_171_Excel_Sheet_Column_Number.s: Math/LC_171_Excel_Sheet_Column_Number.cpp.s
+Arrays/LC287_Duplicat_Number.s: Arrays/LC287_Duplicat_Number.cpp.s
 
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.s
+.PHONY : Arrays/LC287_Duplicat_Number.s
 
 # target to generate assembly for a file
-Math/LC_171_Excel_Sheet_Column_Number.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_171_Excel_Sheet_Column_Number.cpp.s
-.PHONY : Math/LC_171_Excel_Sheet_Column_Number.cpp.s
+Arrays/LC287_Duplicat_Number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.s
+.PHONY : Arrays/LC287_Duplicat_Number.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Math/LC_171_Excel_Sheet_Column_Number.o"
-	@echo "... Math/LC_171_Excel_Sheet_Column_Number.i"
-	@echo "... Math/LC_171_Excel_Sheet_Column_Number.s"
+	@echo "... Arrays/LC287_Duplicat_Number.o"
+	@echo "... Arrays/LC287_Duplicat_Number.i"
+	@echo "... Arrays/LC287_Duplicat_Number.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
