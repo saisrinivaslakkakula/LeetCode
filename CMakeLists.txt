@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp Arrays/LC287_Duplicat_Number.cpp Arrays/LC287_Duplicat_Number.h )
+add_executable(LettCode main.cpp Arrays/LC_56_Merge_Intervals.h Arrays/LC_56_Merge_Intervals.cpp )

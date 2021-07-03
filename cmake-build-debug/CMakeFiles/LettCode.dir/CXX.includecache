@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.cpp
+LC_56_Merge_Intervals.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.h
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.h
 vector
 -
-unordered_set
+stack
 -
 iostream
 -
-
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
-iostream
--
-Arrays/LC287_Duplicat_Number.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.h
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o"
+  "CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"

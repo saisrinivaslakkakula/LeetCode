@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC287_Duplicat_Number.o: Arrays/LC287_Duplicat_Number.cpp.o
+Arrays/LC_56_Merge_Intervals.o: Arrays/LC_56_Merge_Intervals.cpp.o
 
-.PHONY : Arrays/LC287_Duplicat_Number.o
+.PHONY : Arrays/LC_56_Merge_Intervals.o
 
 # target to build an object file
-Arrays/LC287_Duplicat_Number.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o
-.PHONY : Arrays/LC287_Duplicat_Number.cpp.o
+Arrays/LC_56_Merge_Intervals.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o
+.PHONY : Arrays/LC_56_Merge_Intervals.cpp.o
 
-Arrays/LC287_Duplicat_Number.i: Arrays/LC287_Duplicat_Number.cpp.i
+Arrays/LC_56_Merge_Intervals.i: Arrays/LC_56_Merge_Intervals.cpp.i
 
-.PHONY : Arrays/LC287_Duplicat_Number.i
+.PHONY : Arrays/LC_56_Merge_Intervals.i
 
 # target to preprocess a source file
-Arrays/LC287_Duplicat_Number.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.i
-.PHONY : Arrays/LC287_Duplicat_Number.cpp.i
+Arrays/LC_56_Merge_Intervals.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.i
+.PHONY : Arrays/LC_56_Merge_Intervals.cpp.i
 
-Arrays/LC287_Duplicat_Number.s: Arrays/LC287_Duplicat_Number.cpp.s
+Arrays/LC_56_Merge_Intervals.s: Arrays/LC_56_Merge_Intervals.cpp.s
 
-.PHONY : Arrays/LC287_Duplicat_Number.s
+.PHONY : Arrays/LC_56_Merge_Intervals.s
 
 # target to generate assembly for a file
-Arrays/LC287_Duplicat_Number.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.s
-.PHONY : Arrays/LC287_Duplicat_Number.cpp.s
+Arrays/LC_56_Merge_Intervals.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.s
+.PHONY : Arrays/LC_56_Merge_Intervals.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC287_Duplicat_Number.o"
-	@echo "... Arrays/LC287_Duplicat_Number.i"
-	@echo "... Arrays/LC287_Duplicat_Number.s"
+	@echo "... Arrays/LC_56_Merge_Intervals.o"
+	@echo "... Arrays/LC_56_Merge_Intervals.i"
+	@echo "... Arrays/LC_56_Merge_Intervals.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

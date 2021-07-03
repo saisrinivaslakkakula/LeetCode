@@ -89,29 +89,29 @@ CMakeFiles/LettCode.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp -o CMakeFiles/LettCode.dir/main.cpp.s
 
-CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o: CMakeFiles/LettCode.dir/flags.make
-CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o: ../Arrays/LC287_Duplicat_Number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.cpp
+CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o: CMakeFiles/LettCode.dir/flags.make
+CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o: ../Arrays/LC_56_Merge_Intervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.cpp
 
-CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.cpp > CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.i
+CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.cpp > CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.i
 
-CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC287_Duplicat_Number.cpp -o CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.s
+CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.cpp -o CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.s
 
 # Object files for target LettCode
 LettCode_OBJECTS = \
 "CMakeFiles/LettCode.dir/main.cpp.o" \
-"CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o"
+"CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o"
 
 # External object files for target LettCode
 LettCode_EXTERNAL_OBJECTS =
 
 LettCode: CMakeFiles/LettCode.dir/main.cpp.o
-LettCode: CMakeFiles/LettCode.dir/Arrays/LC287_Duplicat_Number.cpp.o
+LettCode: CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o
 LettCode: CMakeFiles/LettCode.dir/build.make
 LettCode: CMakeFiles/LettCode.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LettCode"
