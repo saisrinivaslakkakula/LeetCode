@@ -1,12 +1,10 @@
 #include <iostream>
-#include "Arrays/LC_56_Merge_Intervals.h"
+#include "Arrays/LC_73_Set_MAtrix_Zeros.h"
 
 int main() {
 
-    vector<vector<int>> intervals = {{1,3},{2,6},{8,10},{15,18}};
-    vector<vector<int>>res = merge(intervals);
-    for(vector<int>res1:res){
-        std::cout<<"["<<res1[0]<<","<<res1[1]<<"],";
-    }
+    vector<vector<int>> intervals = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
+    setZeroes(intervals);
+
 
 }

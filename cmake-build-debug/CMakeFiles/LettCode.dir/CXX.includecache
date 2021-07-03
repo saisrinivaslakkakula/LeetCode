@@ -6,14 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.cpp
-LC_56_Merge_Intervals.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_73_Set_MAtrix_Zeros.cpp
+LC_73_Set_MAtrix_Zeros.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_73_Set_MAtrix_Zeros.h
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_56_Merge_Intervals.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_73_Set_MAtrix_Zeros.h
 vector
--
-stack
 -
 iostream
 -

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o"
+  "CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"

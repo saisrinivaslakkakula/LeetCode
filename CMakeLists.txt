@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp Arrays/LC_56_Merge_Intervals.h Arrays/LC_56_Merge_Intervals.cpp )
+add_executable(LettCode main.cpp Arrays/LC_73_Set_MAtrix_Zeros.cpp Arrays/LC_73_Set_MAtrix_Zeros.h )

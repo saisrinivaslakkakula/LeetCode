@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC_56_Merge_Intervals.o: Arrays/LC_56_Merge_Intervals.cpp.o
+Arrays/LC_73_Set_MAtrix_Zeros.o: Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
 
-.PHONY : Arrays/LC_56_Merge_Intervals.o
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.o
 
 # target to build an object file
-Arrays/LC_56_Merge_Intervals.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.o
-.PHONY : Arrays/LC_56_Merge_Intervals.cpp.o
+Arrays/LC_73_Set_MAtrix_Zeros.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
 
-Arrays/LC_56_Merge_Intervals.i: Arrays/LC_56_Merge_Intervals.cpp.i
+Arrays/LC_73_Set_MAtrix_Zeros.i: Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
 
-.PHONY : Arrays/LC_56_Merge_Intervals.i
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.i
 
 # target to preprocess a source file
-Arrays/LC_56_Merge_Intervals.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.i
-.PHONY : Arrays/LC_56_Merge_Intervals.cpp.i
+Arrays/LC_73_Set_MAtrix_Zeros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
 
-Arrays/LC_56_Merge_Intervals.s: Arrays/LC_56_Merge_Intervals.cpp.s
+Arrays/LC_73_Set_MAtrix_Zeros.s: Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
 
-.PHONY : Arrays/LC_56_Merge_Intervals.s
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.s
 
 # target to generate assembly for a file
-Arrays/LC_56_Merge_Intervals.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_56_Merge_Intervals.cpp.s
-.PHONY : Arrays/LC_56_Merge_Intervals.cpp.s
+Arrays/LC_73_Set_MAtrix_Zeros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
+.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC_56_Merge_Intervals.o"
-	@echo "... Arrays/LC_56_Merge_Intervals.i"
-	@echo "... Arrays/LC_56_Merge_Intervals.s"
+	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.o"
+	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.i"
+	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
