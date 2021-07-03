@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_73_Set_MAtrix_Zeros.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.o"
+  "/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_48_Rotate_Matrix.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o"
   "/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp" "/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles/LettCode.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

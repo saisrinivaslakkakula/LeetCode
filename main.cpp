@@ -1,10 +1,10 @@
 #include <iostream>
-#include "Arrays/LC_73_Set_MAtrix_Zeros.h"
+#include "Arrays/LC_48_Rotate_Matrix.h"
 
 int main() {
 
-    vector<vector<int>> intervals = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
-    setZeroes(intervals);
+    vector<vector<int>> matrix = {{1,2,3},{4,5,6},{7,8,9}};
+    rotate(matrix);
 
 
 }

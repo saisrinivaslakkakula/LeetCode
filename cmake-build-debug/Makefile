@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC_73_Set_MAtrix_Zeros.o: Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
+Arrays/LC_48_Rotate_Matrix.o: Arrays/LC_48_Rotate_Matrix.cpp.o
 
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.o
+.PHONY : Arrays/LC_48_Rotate_Matrix.o
 
 # target to build an object file
-Arrays/LC_73_Set_MAtrix_Zeros.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.o
+Arrays/LC_48_Rotate_Matrix.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o
+.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.o
 
-Arrays/LC_73_Set_MAtrix_Zeros.i: Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
+Arrays/LC_48_Rotate_Matrix.i: Arrays/LC_48_Rotate_Matrix.cpp.i
 
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.i
+.PHONY : Arrays/LC_48_Rotate_Matrix.i
 
 # target to preprocess a source file
-Arrays/LC_73_Set_MAtrix_Zeros.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.i
+Arrays/LC_48_Rotate_Matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.i
+.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.i
 
-Arrays/LC_73_Set_MAtrix_Zeros.s: Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
+Arrays/LC_48_Rotate_Matrix.s: Arrays/LC_48_Rotate_Matrix.cpp.s
 
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.s
+.PHONY : Arrays/LC_48_Rotate_Matrix.s
 
 # target to generate assembly for a file
-Arrays/LC_73_Set_MAtrix_Zeros.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
-.PHONY : Arrays/LC_73_Set_MAtrix_Zeros.cpp.s
+Arrays/LC_48_Rotate_Matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.s
+.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.o"
-	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.i"
-	@echo "... Arrays/LC_73_Set_MAtrix_Zeros.s"
+	@echo "... Arrays/LC_48_Rotate_Matrix.o"
+	@echo "... Arrays/LC_48_Rotate_Matrix.i"
+	@echo "... Arrays/LC_48_Rotate_Matrix.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
