@@ -89,29 +89,29 @@ CMakeFiles/LettCode.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp -o CMakeFiles/LettCode.dir/main.cpp.s
 
-CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o: CMakeFiles/LettCode.dir/flags.make
-CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o: ../Arrays/LC_48_Rotate_Matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_48_Rotate_Matrix.cpp
+CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o: CMakeFiles/LettCode.dir/flags.make
+CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o: ../Math/LC_172_Factorial_Trailing_Zeros.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_172_Factorial_Trailing_Zeros.cpp
 
-CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_48_Rotate_Matrix.cpp > CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.i
+CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_172_Factorial_Trailing_Zeros.cpp > CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.i
 
-CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_48_Rotate_Matrix.cpp -o CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.s
+CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Math/LC_172_Factorial_Trailing_Zeros.cpp -o CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.s
 
 # Object files for target LettCode
 LettCode_OBJECTS = \
 "CMakeFiles/LettCode.dir/main.cpp.o" \
-"CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o"
+"CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o"
 
 # External object files for target LettCode
 LettCode_EXTERNAL_OBJECTS =
 
 LettCode: CMakeFiles/LettCode.dir/main.cpp.o
-LettCode: CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o
+LettCode: CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o
 LettCode: CMakeFiles/LettCode.dir/build.make
 LettCode: CMakeFiles/LettCode.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LettCode"

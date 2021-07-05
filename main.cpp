@@ -1,10 +1,9 @@
 #include <iostream>
-#include "Arrays/LC_48_Rotate_Matrix.h"
+#include "Math/LC_172_Factorial_Trailing_Zeros.h"
 
 int main() {
 
-    vector<vector<int>> matrix = {{1,2,3},{4,5,6},{7,8,9}};
-    rotate(matrix);
+    std::cout<<trailingZeroes(10);
 
 
 }

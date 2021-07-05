@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC_48_Rotate_Matrix.o: Arrays/LC_48_Rotate_Matrix.cpp.o
+Math/LC_172_Factorial_Trailing_Zeros.o: Math/LC_172_Factorial_Trailing_Zeros.cpp.o
 
-.PHONY : Arrays/LC_48_Rotate_Matrix.o
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.o
 
 # target to build an object file
-Arrays/LC_48_Rotate_Matrix.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.o
-.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.o
+Math/LC_172_Factorial_Trailing_Zeros.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.o
 
-Arrays/LC_48_Rotate_Matrix.i: Arrays/LC_48_Rotate_Matrix.cpp.i
+Math/LC_172_Factorial_Trailing_Zeros.i: Math/LC_172_Factorial_Trailing_Zeros.cpp.i
 
-.PHONY : Arrays/LC_48_Rotate_Matrix.i
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.i
 
 # target to preprocess a source file
-Arrays/LC_48_Rotate_Matrix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.i
-.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.i
+Math/LC_172_Factorial_Trailing_Zeros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.i
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.i
 
-Arrays/LC_48_Rotate_Matrix.s: Arrays/LC_48_Rotate_Matrix.cpp.s
+Math/LC_172_Factorial_Trailing_Zeros.s: Math/LC_172_Factorial_Trailing_Zeros.cpp.s
 
-.PHONY : Arrays/LC_48_Rotate_Matrix.s
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.s
 
 # target to generate assembly for a file
-Arrays/LC_48_Rotate_Matrix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_48_Rotate_Matrix.cpp.s
-.PHONY : Arrays/LC_48_Rotate_Matrix.cpp.s
+Math/LC_172_Factorial_Trailing_Zeros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.s
+.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC_48_Rotate_Matrix.o"
-	@echo "... Arrays/LC_48_Rotate_Matrix.i"
-	@echo "... Arrays/LC_48_Rotate_Matrix.s"
+	@echo "... Math/LC_172_Factorial_Trailing_Zeros.o"
+	@echo "... Math/LC_172_Factorial_Trailing_Zeros.i"
+	@echo "... Math/LC_172_Factorial_Trailing_Zeros.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

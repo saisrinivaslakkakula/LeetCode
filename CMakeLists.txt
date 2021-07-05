@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp Arrays/LC_48_Rotate_Matrix.cpp Arrays/LC_48_Rotate_Matrix.h )
+add_executable(LettCode main.cpp Math/LC_172_Factorial_Trailing_Zeros.h Math/LC_172_Factorial_Trailing_Zeros.cpp )
