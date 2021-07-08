@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Math/LC_172_Factorial_Trailing_Zeros.o: Math/LC_172_Factorial_Trailing_Zeros.cpp.o
+LinkedList/LC_2_Add_Two_Numbers.o: LinkedList/LC_2_Add_Two_Numbers.cpp.o
 
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.o
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.o
 
 # target to build an object file
-Math/LC_172_Factorial_Trailing_Zeros.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.o
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.o
+LinkedList/LC_2_Add_Two_Numbers.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.o
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.o
 
-Math/LC_172_Factorial_Trailing_Zeros.i: Math/LC_172_Factorial_Trailing_Zeros.cpp.i
+LinkedList/LC_2_Add_Two_Numbers.i: LinkedList/LC_2_Add_Two_Numbers.cpp.i
 
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.i
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.i
 
 # target to preprocess a source file
-Math/LC_172_Factorial_Trailing_Zeros.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.i
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.i
+LinkedList/LC_2_Add_Two_Numbers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.i
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.i
 
-Math/LC_172_Factorial_Trailing_Zeros.s: Math/LC_172_Factorial_Trailing_Zeros.cpp.s
+LinkedList/LC_2_Add_Two_Numbers.s: LinkedList/LC_2_Add_Two_Numbers.cpp.s
 
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.s
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.s
 
 # target to generate assembly for a file
-Math/LC_172_Factorial_Trailing_Zeros.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Math/LC_172_Factorial_Trailing_Zeros.cpp.s
-.PHONY : Math/LC_172_Factorial_Trailing_Zeros.cpp.s
+LinkedList/LC_2_Add_Two_Numbers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.s
+.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Math/LC_172_Factorial_Trailing_Zeros.o"
-	@echo "... Math/LC_172_Factorial_Trailing_Zeros.i"
-	@echo "... Math/LC_172_Factorial_Trailing_Zeros.s"
+	@echo "... LinkedList/LC_2_Add_Two_Numbers.o"
+	@echo "... LinkedList/LC_2_Add_Two_Numbers.i"
+	@echo "... LinkedList/LC_2_Add_Two_Numbers.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
