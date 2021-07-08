@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LinkedList/LC_2_Add_Two_Numbers.h"
+#include "LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.h"
 
 int main() {
     ListNode *l1 =  new ListNode();
@@ -16,14 +16,14 @@ int main() {
     n1->val = 4;
     n1->next = n2;
     n2->val = 3;
-    n2->next = nullptr;
+    n2->next = n4;
     l2->val = 5;
     l2->next = n3;
     n3->val = 6;
-    n3->next = n4;
+    n3->next = n2;
     n4->val = 4;
     n4->next = nullptr;
-    printList(addTwoNumbers(l1,l2));
+    printList(getIntersectionNode(l1,l2));
 
 
 

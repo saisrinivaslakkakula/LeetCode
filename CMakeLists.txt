@@ -3,4 +3,4 @@ project(LettCode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LettCode main.cpp LinkedList/LC_2_Add_Two_Numbers.h LinkedList/LC_2_Add_Two_Numbers.cpp )
+add_executable(LettCode main.cpp LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.h LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp )

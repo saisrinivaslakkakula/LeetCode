@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-LinkedList/LC_2_Add_Two_Numbers.o: LinkedList/LC_2_Add_Two_Numbers.cpp.o
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
 
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.o
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o
 
 # target to build an object file
-LinkedList/LC_2_Add_Two_Numbers.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.o
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.o
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
 
-LinkedList/LC_2_Add_Two_Numbers.i: LinkedList/LC_2_Add_Two_Numbers.cpp.i
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
 
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.i
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i
 
 # target to preprocess a source file
-LinkedList/LC_2_Add_Two_Numbers.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.i
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.i
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
 
-LinkedList/LC_2_Add_Two_Numbers.s: LinkedList/LC_2_Add_Two_Numbers.cpp.s
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
 
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.s
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s
 
 # target to generate assembly for a file
-LinkedList/LC_2_Add_Two_Numbers.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.s
-.PHONY : LinkedList/LC_2_Add_Two_Numbers.cpp.s
+LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
+.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... LinkedList/LC_2_Add_Two_Numbers.o"
-	@echo "... LinkedList/LC_2_Add_Two_Numbers.i"
-	@echo "... LinkedList/LC_2_Add_Two_Numbers.s"
+	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o"
+	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i"
+	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

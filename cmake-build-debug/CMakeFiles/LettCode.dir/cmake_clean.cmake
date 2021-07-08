@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/LinkedList/LC_2_Add_Two_Numbers.cpp.o"
+  "CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"
