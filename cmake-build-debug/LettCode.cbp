@@ -80,10 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.cpp">
 			<Option target="LettCode"/>
 		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.h">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.h">
 			<Option target="LettCode"/>
 		</Unit>
 		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp">

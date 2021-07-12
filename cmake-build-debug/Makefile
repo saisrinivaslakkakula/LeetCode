@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
+LinkedList/LC_19_Remove_Nth_Node.o: LinkedList/LC_19_Remove_Nth_Node.cpp.o
 
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.o
 
 # target to build an object file
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.o
+LinkedList/LC_19_Remove_Nth_Node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.o
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.o
 
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
+LinkedList/LC_19_Remove_Nth_Node.i: LinkedList/LC_19_Remove_Nth_Node.cpp.i
 
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.i
 
 # target to preprocess a source file
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.i
+LinkedList/LC_19_Remove_Nth_Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.i
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.i
 
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s: LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
+LinkedList/LC_19_Remove_Nth_Node.s: LinkedList/LC_19_Remove_Nth_Node.cpp.s
 
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.s
 
 # target to generate assembly for a file
-LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
-.PHONY : LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.cpp.s
+LinkedList/LC_19_Remove_Nth_Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.s
+.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.o"
-	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.i"
-	@echo "... LinkedList/LC_160_Intersection_Of_Two_Linked_Lists.s"
+	@echo "... LinkedList/LC_19_Remove_Nth_Node.o"
+	@echo "... LinkedList/LC_19_Remove_Nth_Node.i"
+	@echo "... LinkedList/LC_19_Remove_Nth_Node.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
