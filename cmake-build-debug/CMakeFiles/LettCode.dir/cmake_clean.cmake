@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o"
-  "CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o"
+  "CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"

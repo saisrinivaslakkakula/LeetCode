@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp
-LC_155_Min_Stack.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h
-
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h
-vector
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.h
+stack
 -
+string
+-
+
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp
+iostream
+-
+Stack_and_Queue/LC_13_Roman_To_Integer.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.h
 

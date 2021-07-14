@@ -1,16 +1,9 @@
 #include <iostream>
-#include "Stack_and_Queue/LC_155_Min_Stack.h"
+#include "Stack_and_Queue/LC_13_Roman_To_Integer.h"
 
 int main() {
-    LC_155_Min_Stack minStack = LC_155_Min_Stack();
-    minStack.push(0);
-    minStack.push(1);
-    minStack.push(0);
-    std::cout<<minStack.getMin()<<" ";
-    minStack.pop();
-    //std::cout<<minStack.top()<<" ";
-    std::cout<<minStack.getMin()<<" ";
 
+    std::cout<<romanToInt("MCMXCIV");
 
 
 }

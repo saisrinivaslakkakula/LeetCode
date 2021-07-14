@@ -89,47 +89,32 @@ CMakeFiles/LettCode.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp -o CMakeFiles/LettCode.dir/main.cpp.s
 
-CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o: CMakeFiles/LettCode.dir/flags.make
-CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o: ../Stack_and_Queue/LC_155_Min_Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp
+CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o: CMakeFiles/LettCode.dir/flags.make
+CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o: ../Stack_and_Queue/LC_13_Roman_To_Integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.cpp
 
-CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp > CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.i
+CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.cpp > CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
 
-CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp -o CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.s
-
-CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o: CMakeFiles/LettCode.dir/flags.make
-CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o: ../Arrays/LC_496_Next_Greater_Element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o -c /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.cpp
-
-CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.cpp > CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.i
-
-CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.cpp -o CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.s
+CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.cpp -o CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
 
 # Object files for target LettCode
 LettCode_OBJECTS = \
 "CMakeFiles/LettCode.dir/main.cpp.o" \
-"CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o" \
-"CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o"
+"CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o"
 
 # External object files for target LettCode
 LettCode_EXTERNAL_OBJECTS =
 
 LettCode: CMakeFiles/LettCode.dir/main.cpp.o
-LettCode: CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o
-LettCode: CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o
+LettCode: CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
 LettCode: CMakeFiles/LettCode.dir/build.make
 LettCode: CMakeFiles/LettCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable LettCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/saisrinivaslakkakula/CLionProjects/LettCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LettCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LettCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

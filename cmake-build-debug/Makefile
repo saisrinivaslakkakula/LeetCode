@@ -142,59 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Arrays/LC_496_Next_Greater_Element.o: Arrays/LC_496_Next_Greater_Element.cpp.o
+Stack_and_Queue/LC_13_Roman_To_Integer.o: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
 
-.PHONY : Arrays/LC_496_Next_Greater_Element.o
-
-# target to build an object file
-Arrays/LC_496_Next_Greater_Element.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o
-.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.o
-
-Arrays/LC_496_Next_Greater_Element.i: Arrays/LC_496_Next_Greater_Element.cpp.i
-
-.PHONY : Arrays/LC_496_Next_Greater_Element.i
-
-# target to preprocess a source file
-Arrays/LC_496_Next_Greater_Element.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.i
-.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.i
-
-Arrays/LC_496_Next_Greater_Element.s: Arrays/LC_496_Next_Greater_Element.cpp.s
-
-.PHONY : Arrays/LC_496_Next_Greater_Element.s
-
-# target to generate assembly for a file
-Arrays/LC_496_Next_Greater_Element.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.s
-.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.s
-
-Stack_and_Queue/LC_155_Min_Stack.o: Stack_and_Queue/LC_155_Min_Stack.cpp.o
-
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.o
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.o
 
 # target to build an object file
-Stack_and_Queue/LC_155_Min_Stack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.o
+Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
 
-Stack_and_Queue/LC_155_Min_Stack.i: Stack_and_Queue/LC_155_Min_Stack.cpp.i
+Stack_and_Queue/LC_13_Roman_To_Integer.i: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
 
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.i
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.i
 
 # target to preprocess a source file
-Stack_and_Queue/LC_155_Min_Stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.i
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.i
+Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
 
-Stack_and_Queue/LC_155_Min_Stack.s: Stack_and_Queue/LC_155_Min_Stack.cpp.s
+Stack_and_Queue/LC_13_Roman_To_Integer.s: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
 
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.s
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.s
 
 # target to generate assembly for a file
-Stack_and_Queue/LC_155_Min_Stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.s
-.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.s
+Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
+.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
 
 main.o: main.cpp.o
 
@@ -232,12 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Arrays/LC_496_Next_Greater_Element.o"
-	@echo "... Arrays/LC_496_Next_Greater_Element.i"
-	@echo "... Arrays/LC_496_Next_Greater_Element.s"
-	@echo "... Stack_and_Queue/LC_155_Min_Stack.o"
-	@echo "... Stack_and_Queue/LC_155_Min_Stack.i"
-	@echo "... Stack_and_Queue/LC_155_Min_Stack.s"
+	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.o"
+	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.i"
+	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

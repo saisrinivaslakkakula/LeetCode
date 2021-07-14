@@ -80,16 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.cpp">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.cpp">
 			<Option target="LettCode"/>
 		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.h">
-			<Option target="LettCode"/>
-		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp">
-			<Option target="LettCode"/>
-		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_13_Roman_To_Integer.h">
 			<Option target="LettCode"/>
 		</Unit>
 		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp">
