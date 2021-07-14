@@ -80,10 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.cpp">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.cpp">
 			<Option target="LettCode"/>
 		</Unit>
-		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.h">
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Arrays/LC_496_Next_Greater_Element.h">
+			<Option target="LettCode"/>
+		</Unit>
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp">
+			<Option target="LettCode"/>
+		</Unit>
+		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h">
 			<Option target="LettCode"/>
 		</Unit>
 		<Unit filename="/Users/saisrinivaslakkakula/CLionProjects/LettCode/main.cpp">

@@ -142,32 +142,59 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-LinkedList/LC_19_Remove_Nth_Node.o: LinkedList/LC_19_Remove_Nth_Node.cpp.o
+Arrays/LC_496_Next_Greater_Element.o: Arrays/LC_496_Next_Greater_Element.cpp.o
 
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.o
+.PHONY : Arrays/LC_496_Next_Greater_Element.o
 
 # target to build an object file
-LinkedList/LC_19_Remove_Nth_Node.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.o
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.o
+Arrays/LC_496_Next_Greater_Element.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o
+.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.o
 
-LinkedList/LC_19_Remove_Nth_Node.i: LinkedList/LC_19_Remove_Nth_Node.cpp.i
+Arrays/LC_496_Next_Greater_Element.i: Arrays/LC_496_Next_Greater_Element.cpp.i
 
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.i
+.PHONY : Arrays/LC_496_Next_Greater_Element.i
 
 # target to preprocess a source file
-LinkedList/LC_19_Remove_Nth_Node.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.i
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.i
+Arrays/LC_496_Next_Greater_Element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.i
+.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.i
 
-LinkedList/LC_19_Remove_Nth_Node.s: LinkedList/LC_19_Remove_Nth_Node.cpp.s
+Arrays/LC_496_Next_Greater_Element.s: Arrays/LC_496_Next_Greater_Element.cpp.s
 
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.s
+.PHONY : Arrays/LC_496_Next_Greater_Element.s
 
 # target to generate assembly for a file
-LinkedList/LC_19_Remove_Nth_Node.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.s
-.PHONY : LinkedList/LC_19_Remove_Nth_Node.cpp.s
+Arrays/LC_496_Next_Greater_Element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.s
+.PHONY : Arrays/LC_496_Next_Greater_Element.cpp.s
+
+Stack_and_Queue/LC_155_Min_Stack.o: Stack_and_Queue/LC_155_Min_Stack.cpp.o
+
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.o
+
+# target to build an object file
+Stack_and_Queue/LC_155_Min_Stack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.o
+
+Stack_and_Queue/LC_155_Min_Stack.i: Stack_and_Queue/LC_155_Min_Stack.cpp.i
+
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.i
+
+# target to preprocess a source file
+Stack_and_Queue/LC_155_Min_Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.i
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.i
+
+Stack_and_Queue/LC_155_Min_Stack.s: Stack_and_Queue/LC_155_Min_Stack.cpp.s
+
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.s
+
+# target to generate assembly for a file
+Stack_and_Queue/LC_155_Min_Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.s
+.PHONY : Stack_and_Queue/LC_155_Min_Stack.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +232,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... LinkedList/LC_19_Remove_Nth_Node.o"
-	@echo "... LinkedList/LC_19_Remove_Nth_Node.i"
-	@echo "... LinkedList/LC_19_Remove_Nth_Node.s"
+	@echo "... Arrays/LC_496_Next_Greater_Element.o"
+	@echo "... Arrays/LC_496_Next_Greater_Element.i"
+	@echo "... Arrays/LC_496_Next_Greater_Element.s"
+	@echo "... Stack_and_Queue/LC_155_Min_Stack.o"
+	@echo "... Stack_and_Queue/LC_155_Min_Stack.i"
+	@echo "... Stack_and_Queue/LC_155_Min_Stack.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

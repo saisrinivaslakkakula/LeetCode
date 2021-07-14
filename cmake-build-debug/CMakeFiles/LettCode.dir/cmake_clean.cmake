@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/LinkedList/LC_19_Remove_Nth_Node.cpp.o"
+  "CMakeFiles/LettCode.dir/Arrays/LC_496_Next_Greater_Element.cpp.o"
+  "CMakeFiles/LettCode.dir/Stack_and_Queue/LC_155_Min_Stack.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"

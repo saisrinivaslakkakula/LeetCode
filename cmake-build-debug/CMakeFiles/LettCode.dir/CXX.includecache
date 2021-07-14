@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.cpp
-LC_19_Remove_Nth_Node.h
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.cpp
+LC_155_Min_Stack.h
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h
 
-/Users/saisrinivaslakkakula/CLionProjects/LettCode/LinkedList/LC_19_Remove_Nth_Node.h
-iostream
--
-unordered_map
+/Users/saisrinivaslakkakula/CLionProjects/LettCode/Stack_and_Queue/LC_155_Min_Stack.h
+vector
 -
 
