@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o"
+  "CMakeFiles/LettCode.dir/Trees/LC_94_Inorder_Travarsal.cpp.o"
+  "CMakeFiles/LettCode.dir/Trees/constructTree.cpp.o"
   "CMakeFiles/LettCode.dir/main.cpp.o"
   "LettCode"
   "LettCode.pdb"
