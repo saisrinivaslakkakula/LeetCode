@@ -142,32 +142,32 @@ LettCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/build
 .PHONY : LettCode/fast
 
-Stack_and_Queue/LC_13_Roman_To_Integer.o: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
+RomanNumeral.o: RomanNumeral.cpp.o
 
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.o
+.PHONY : RomanNumeral.o
 
 # target to build an object file
-Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.o
+RomanNumeral.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/RomanNumeral.cpp.o
+.PHONY : RomanNumeral.cpp.o
 
-Stack_and_Queue/LC_13_Roman_To_Integer.i: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
+RomanNumeral.i: RomanNumeral.cpp.i
 
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.i
+.PHONY : RomanNumeral.i
 
 # target to preprocess a source file
-Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.i
+RomanNumeral.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/RomanNumeral.cpp.i
+.PHONY : RomanNumeral.cpp.i
 
-Stack_and_Queue/LC_13_Roman_To_Integer.s: Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
+RomanNumeral.s: RomanNumeral.cpp.s
 
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.s
+.PHONY : RomanNumeral.s
 
 # target to generate assembly for a file
-Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
-.PHONY : Stack_and_Queue/LC_13_Roman_To_Integer.cpp.s
+RomanNumeral.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LettCode.dir/build.make CMakeFiles/LettCode.dir/RomanNumeral.cpp.s
+.PHONY : RomanNumeral.cpp.s
 
 main.o: main.cpp.o
 
@@ -205,9 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LettCode"
-	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.o"
-	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.i"
-	@echo "... Stack_and_Queue/LC_13_Roman_To_Integer.s"
+	@echo "... RomanNumeral.o"
+	@echo "... RomanNumeral.i"
+	@echo "... RomanNumeral.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
