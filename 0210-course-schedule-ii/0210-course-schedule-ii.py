@@ -7,17 +7,15 @@ class Solution:
         for dest,src in prerequisites:
             graph[src].append(dest)
         
-        indegree = defaultdict(int)
+        indegree = [0]*numCourses
 
-        for n in range(numCourses):
-            indegree[n] = 0
         for neighbors in graph.values():
             for neighbor in neighbors:
                 indegree[neighbor]+=1
         q = deque()
-        for key in indegree:
-            if indegree[key] == 0:
-                q.append(key)
+        for i,ind in enumerate(indegree):
+            if ind == 0:
+                q.append(i)
         ans = []
         while q:
             cur = q.popleft()
