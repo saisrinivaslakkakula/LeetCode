@@ -4,22 +4,18 @@ class Solution:
         left = [1]
         right = [1]
         nums_rev = nums[::-1]
-        for n in nums:
-            left.append(left[-1]*n)
-        for n in nums_rev:
-            right.append(right[-1]*n)
-        
-        #print(left)
-        #print(right)
+        for i in range(len(nums)-1):
+            left.append(left[-1]*nums[i])
+        for i in range(len(nums_rev)-1):
+            right.append(right[-1]*nums_rev[i])
+        right = right[::-1]
+
         ans = []
-        for i in range(len(left)-1):
-            ans.append(left[i])
-        i =0
-        j = len(right)-2
-        for i,a in enumerate(ans):
-            ans[i] = ans[i]*right[j]
-            j-=1
-        return ans
+        for i,l in enumerate(left):
+            ans.append(l*right[i])
+        return(ans)
+        
+        
 
 
 
